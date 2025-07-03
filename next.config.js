@@ -7,10 +7,6 @@ const nextConfig = {
   },
   // Add trailing slash for GitHub Pages compatibility
   trailingSlash: true,
-  // Ensure static export works with Next.js 13+ App Router
-  experimental: {
-    appDir: true,
-  },
 };
 
 module.exports = nextConfig;

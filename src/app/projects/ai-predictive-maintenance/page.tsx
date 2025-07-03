@@ -157,7 +157,7 @@ export default function AIPredictiveMaintenance() {
           </div>
 
           <p>
-            The system's modular architecture allows for easy integration with existing industrial equipment, making it 
+            The system&apos;s modular architecture allows for easy integration with existing industrial equipment, making it 
             a versatile solution for various industrial applications beyond HVAC-R systems.
           </p>
         </div>
