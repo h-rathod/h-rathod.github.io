@@ -169,7 +169,7 @@ export default function AIPredictiveMaintenance() {
         <div className="space-y-6 text-muted-foreground">
           <ul className="space-y-4 list-disc pl-6">
             <li>
-              <span className="text-foreground font-medium">OpenAI Researcher Access Program:</span> Our UG Final Year Project "AI-based Predictive Maintenance System for Industrial Machines" was accepted into the OpenAI Researcher Access Program, granting $2000 worth of credits.
+              <span className="text-foreground font-medium">OpenAI Researcher Access Program:</span> Our UG Final Year Project &quot;AI-based Predictive Maintenance System for Industrial Machines&quot; was accepted into the OpenAI Researcher Access Program, granting $2000 worth of credits.
             </li>
             <li>
               <span className="text-foreground font-medium">1st Rank in Tantrapradarshini:</span> Secured 1st Rank in the department-level project exhibition Tantrapradarshini, organized by the ENTC Department in association with IEEE Student Branch and Institutions Innovation Council.
