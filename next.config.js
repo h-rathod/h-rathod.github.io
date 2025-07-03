@@ -1,13 +1,16 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: process.env.NODE_ENV === 'production' ? '/portfolio' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/portfolio/' : '',
+  // Remove basePath and assetPrefix to serve from root
   images: {
     unoptimized: true,
   },
-  // Optional: Add a trailing slash to all paths
+  // Add trailing slash for GitHub Pages compatibility
   trailingSlash: true,
+  // Ensure static export works with Next.js 13+ App Router
+  experimental: {
+    appDir: true,
+  },
 };
 
 module.exports = nextConfig;
