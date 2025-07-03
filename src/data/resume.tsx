@@ -1,5 +1,5 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon, NotebookIcon, FileText, LucideIcon } from "lucide-react";
+import { HomeIcon, FileText, LucideIcon } from "lucide-react";
 
 type NavbarItem = {
   href: string;
@@ -41,7 +41,6 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
     { 
       href: "/resume/Resume.pdf", 
       icon: FileText, 
@@ -50,7 +49,7 @@ export const DATA = {
     },
   ] as NavbarItem[],
   contact: {
-    email: "hello@example.com",
+    email: "harshrathod2652@gmail.com",
     tel: "+123456789",
     social: {
       GitHub: {
