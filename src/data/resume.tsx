@@ -17,7 +17,7 @@ export const DATA = {
   description:
     "A Somedude in STEM and Development. Working on LLM's, MCP's, Generative AI & Product.",
   summary:
-  "I recently earned my Bachelor of Engineering degree in Computer and Electronics from Savitribai Phule Pune University. I have hands-on experience in programming and software development, and I actively share my knowledge by writing beginner-friendly [tutorial blogs](https://raharsh.notion.site/Enough-for-Placements-1a06bc4f436d806f87ddd3fa799246e9?source=copy_link) for beginners. I also write on [X (formerly Twitter)](https://twitter.com/raharsh_) for fun.",
+  "I recently earned my Bachelor's of Engineering degree in Computer and Electronics from Savitribai Phule Pune University. I have hands-on experience in programming and software development, and I actively share my knowledge by writing beginner-friendly [tutorial blogs](https://raharsh.notion.site/Enough-for-Placements-1a06bc4f436d806f87ddd3fa799246e9?source=copy_link) for beginners. I also write on [X (formerly Twitter)](https://twitter.com/raharsh_) for fun.",
 
     avatarUrl: "/harshpfp.jpg",
   skills: [
