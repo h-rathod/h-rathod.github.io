@@ -141,7 +141,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/h-rathod/ai-predictive-maintenance-system",
+          href: "https://github.com/h-rathod/AI-Predictive-Maintenance",
           icon: <Icons.github className="size-3" />,
         },
       ],
